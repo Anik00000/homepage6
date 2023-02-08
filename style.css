@@ -1,0 +1,58 @@
+.background_image{
+    background-image: url("img/img2.jpg");
+    background-size: cover;
+    padding: 167px;
+    
+}
+/* .all_padding_top{
+    padding-top: 87px;
+} */
+.manu_ber{
+    font-size: 77px;
+}
+.manu_ber h1{
+    margin-top: 30px;
+    font-size: 94px;
+}
+.manu_ber b{
+    margin-top: 40px;
+    font-size: 31px;
+}
+.manu_ber ul{
+    margin-top: 35px;
+    margin-left: -24px;
+   list-style: none;
+   font-size: 35px;
+   
+
+}
+.manu_ber ul li i{
+    background-color: rgb(44, 136, 228);
+}
+.body_image{
+    background-image: url(img/emage3.jpg);
+    background-size: cover;
+    width: 131%;
+    height: 112%;
+    box-shadow: -2px -1px 6px 3px;
+    border-radius: 36px;
+} 
+.boxx{
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 116px;
+    margin-left: 48px;
+    padding-bottom: 95px;
+    font-size: 30px;
+    border-radius: 36px;
+    box-shadow: -2px -1px 6px 3px;
+}
+.boxx img{
+    margin-top: 50px;
+}
+.boxx h1{
+    margin-top: 20px;
+}
+.boxx p{
+    margin-top: 70px;
+}
